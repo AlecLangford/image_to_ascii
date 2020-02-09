@@ -5,6 +5,7 @@ This python script converts images and gifs to ASCII
 
 ![demo](https://github.com/yattsu/image_to_ascii/blob/master/demo.gif)
 ![demo2](https://github.com/yattsu/image_to_ascii/blob/master/demo2.gif)
+![demo3](https://github.com/yattsu/image_to_ascii/blob/master/demo3.png)
 
 # Requirements
 Python==3.8.1 <br>
