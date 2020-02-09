@@ -28,8 +28,8 @@ or <br>
 
 If you don't add any more arguments, the image will be converted at full size. But you can add an integer after the image source to specify the percentage of the new image: <br>
 `python ascii.py https://site.domain/image.png 50` - converts the image at half of its original size <br>
-You can also add the `reversed` argument. This will invert the black and white of the image.
-(If you use `reversed` you must specify the percentage of the image before like this `python ascii.py https://site.domain/image.png 50 reversed` or `python ascii.py https://site.domain/image.png 100 reversed` for the 1:1 scale)
+You can also add the `reverse` argument. This will invert the black and white of the image.
+(If you use `reverse` you must specify the percentage of the image before like this `python ascii.py https://site.domain/image.png 50 reverse` or `python ascii.py https://site.domain/image.png 100 reverse` for the 1:1 scale)
 
 Converting a GIF will result in creating a file for each frame inside of the `frames/` directory.
 
