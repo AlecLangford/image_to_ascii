@@ -17,7 +17,7 @@ def show():
 
     for f in files:
       with open(f, 'r') as content:
-        os.system('clear')
+        print("\033[H\033[J")
         print(content.read())
       if file_count == 1:
         return
