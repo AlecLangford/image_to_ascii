@@ -18,7 +18,6 @@ def show():
     for f in files:
       with open(f, 'r') as content:
         os.system('clear')
-        print(f)
         print(content.read())
       if file_count == 1:
         return
