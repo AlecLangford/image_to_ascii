@@ -3,6 +3,8 @@ A python script which converts gifs and images to ASCII
 
 This python script converts images and gifs to ASCII
 
+![demo](https://github.com/yattsu/image_to_ascii/blob/master/demo.gif)
+
 # Requirements
 Pillow==7.0.0
 
