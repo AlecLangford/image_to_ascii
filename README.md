@@ -7,6 +7,7 @@ This python script converts images and gifs to ASCII
 
 # Requirements
 Pillow==7.0.0
+Requests==2.22.0
 
 # Converting
 
